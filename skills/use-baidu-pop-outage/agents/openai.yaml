@@ -1,0 +1,3 @@
+interface:
+  display_name: "use-baidu-pop-outage"
+  short_description: "排查 node-baidu-pop 流量归零、时钟/签名错误和 OOM 循环"
